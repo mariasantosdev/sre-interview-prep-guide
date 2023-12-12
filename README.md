@@ -275,3 +275,7 @@ Contributions are always welcome!
 - [ ] [Site Reliability Engineering: Measuring and Managing Reliability](https://www.coursera.org/learn/site-reliability-engineering-slos)
 - [ ] [School of SRE](https://linkedin.github.io/school-of-sre)
 
+## Others:
+Roadmap: https://roadmap.sh/devops
+PDE alura: https://cursos.alura.com.br/devops-sre-flaviaventurini-1669255160980-p485780
+
