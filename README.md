@@ -280,3 +280,4 @@ Roadmap: https://roadmap.sh/devops
 
 PDE alura: https://cursos.alura.com.br/devops-sre-flaviaventurini-1669255160980-p485780
 
+Outro repo boum: https://github.com/mariasantosdev/sre-roadmap
