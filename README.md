@@ -104,7 +104,7 @@ Contributions are always welcome!
 - [ ] [Understanding Database Sharding](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
 - [ ] [Database Replication](https://galeracluster.com/library/documentation/tech-desc-introduction.html#database-replication)
 - [ ] [SQL vs. NoSQL Database: When to Use, How to Choose](https://towardsdatascience.com/datastore-choices-sql-vs-nosql-database-ebec24d56106)
-- [ x ] [How do database indexes work?](https://planetscale.com/blog/how-do-database-indexes-work)
+- [x] [How do database indexes work?](https://planetscale.com/blog/how-do-database-indexes-work)
 - [ ] [Redis Explained](https://architecturenotes.co/redis)
 - [ ] [Database Sharding Explained](https://architecturenotes.co/database-sharding-explained)
 
