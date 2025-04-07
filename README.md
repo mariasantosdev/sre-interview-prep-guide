@@ -14,10 +14,14 @@ Contributions are always welcome!
 
 ## Linux
 
+- [ ] [Introduction to Linux – Full Course for Beginners](https://www.youtube.com/watch?v=sWbUDq4S6Y8)
 - [ ] [What every SRE should know about GNU/Linux shell related internals: file descriptors, pipes, terminals, user sessions, process groups and daemons](https://biriukov.dev/docs/fd-pipe-session-terminal/0-sre-should-know-about-gnu-linux-shell-related-internals-file-descriptors-pipes-terminals-user-sessions-process-groups-and-daemons)
+- [ ] [SRE deep dive into Linux Page Cache](https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre)
+- [ ] [Linux Internals workshop - Google TechTalks](https://www.youtube.com/playlist?list=PLSIUOFhnxEiC3YTdxwqZqgEY5imVL8U8J)
 
 ### Boot Process
 
+- [ ] [How Does Linux Boot Process Work?](https://youtu.be/XpFsMB6FoOs)
 - [ ] [An introduction to the Linux boot and startup processes](https://opensource.com/article/17/2/linux-boot-and-startup)
 - [ ] [What happens when we turn on computer?](https://www.cdn.geeksforgeeks.org/what-happens-when-we-turn-on-computer)
 - [ ] [What happens when we turn on computer?](https://leetcode.com/discuss/interview-question/125107/What-happens-when-we-turn-on-computer)
@@ -46,6 +50,7 @@ Contributions are always welcome!
 - [ ] [Memory Leak](https://stackoverflow.com/questions/312069/the-best-memory-leak-definition)
 - [ ] [What is a kernel Panic?](http://learnlinuxconcepts.blogspot.com/2014/07/what-is-kernel-panic.html)
 - [ ] [Book about the linux kernel](https://0xax.gitbooks.io/linux-insides/content)
+- [ ] [Processes in Linux - Everything You Need to Know](https://reliabilityengineering.substack.com/p/everything-you-need-to-know-about)
 
 ### Troubleshooting
 
@@ -64,6 +69,7 @@ Contributions are always welcome!
 - [ ] [Multi-tier load-balancing with Linux](https://vincent.bernat.ch/en/blog/2018-multi-tier-loadbalancer)
 - [ ] [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
 - [ ] [Load Balancing Algorithms](https://syedali.net/2013/08/22/load-balancing-algorithms)
+- [ ] [What every SRE should know about GNU/Linux resolvers and Dual-Stack applications](https://biriukov.dev/docs/resolver-dual-stack-application/0-sre-should-know-about-gnu-linux-resolvers-and-dual-stack-applications)
 
 ## Containers
 
@@ -85,6 +91,9 @@ Contributions are always welcome!
 - [ ] [15 Kubernetes Best Practices Every Developer Should Know](https://spacelift.io/blog/kubernetes-best-practices)
 - [ ] [THE KUBERNETES NETWORKING GUIDE](https://www.tkng.io)
 - [ ] [The life of a DNS query in Kubernetes](https://www.nslookup.io/learning/the-life-of-a-dns-query-in-kubernetes)
+- [ ] [Kubernetes YAML tips and tricks](https://itnext.io/kubernetes-yaml-tips-and-tricks-904a2c0b2b81)
+- [ ] [Kubernetes Learning Roadmap](https://github.com/techiescamp/kubernetes-learning-path)
+- [ ] [Kubernetes networking: service, kube-proxy, load balancing](https://learnk8s.io/kubernetes-services-and-load-balancing)
 
 ## Infrastructure as code / Configuration management
 
@@ -93,6 +102,7 @@ Contributions are always welcome!
 - [ ] [Ansible](https://github.com/leucos/ansible-tuto)
 - [ ] [Getting Started With Terraform on AWS](https://spacelift.io/blog/terraform-tutorial)
 - [ ] [Google Cloud: Best practices for using Terraform](https://cloud.google.com/docs/terraform/best-practices-for-terraform)
+- [ ] [Terraform Roadmap](https://roadmap.sh/terraform)
 
 ## Databases
 
@@ -107,12 +117,15 @@ Contributions are always welcome!
 - [x] [How do database indexes work?](https://planetscale.com/blog/how-do-database-indexes-work)
 - [ ] [Redis Explained](https://architecturenotes.co/redis)
 - [ ] [Database Sharding Explained](https://architecturenotes.co/database-sharding-explained)
+- [ ] [Kafka 101](https://highscalability.com/untitled-2)
 
 ## CI/CD
 
+- [ ] [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
 - [ ] [7 Pipeline Design Patterns for Continuous Delivery](https://www.singlestoneconsulting.com/blog/7-pipeline-design-patterns-for-continuous-delivery)
 - [ ] [CI/CD patterns](https://continuousdelivery.com/implementing/patterns)
 - [ ] [Six Strategies for Application Deployment](https://thenewstack.io/deployment-strategies)
+- [ ] [What Is GitOps?](https://codefresh.io/learn/gitops)
 
 ## Clouds
 
@@ -121,6 +134,10 @@ Contributions are always welcome!
 - [ ] [Hands-On Training with GCP](https://cloud.google.com/training/badges)
 
 ## Programming
+
+### Git
+
+- [ ] [Useful git commands for SRE and DevOps engineers](https://reliabilityengineering.substack.com/p/useful-git-commands-for-sre-and-devops)
 
 ### Python
 
@@ -145,24 +162,25 @@ Contributions are always welcome!
 
 ### Big O Notation, Algorithms and Data Structures
 
-- [ ] [AlgoExperts](https://www.algoexpert.io)
+- [ ] [AlgoExpert](https://www.algoexpert.io)
 - [ ] [Hacking a Google Interview – Handout 1](http://courses.csail.mit.edu/iap/interview/Hacking_a_Google_Interview_Handout_1.pdf)
 - [ ] [Hacking a Google Interview – Handout 2](http://courses.csail.mit.edu/iap/interview/Hacking_a_Google_Interview_Handout_2.pdf)
 - [ ] [Hacking a Google Interview – Handout 3](http://courses.csail.mit.edu/iap/interview/Hacking_a_Google_Interview_Handout_3.pdf)
 
 ## System design
 
-- [ ] [SystemsExpert course from AlgoExpert](https://www.algoexpert.io/se/product)
+- [ ] [SystemsExpert course from AlgoExpert](https://www.algoexpert.io/systems/product)
 - [ ] [System Design 101](https://github.com/ByteByteGoHq/system-design-101)
-- [ ] [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
+- [ ] [Grokking the System Design Interview](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
 - [ ] [The System Design Primer](https://github.com/donnemartin/system-design-primer)
-- [ ] [Crack the System Design Interview](https://www.puncsky.com/blog/2016/02/14/crack-the-system-design-interview)
+- [ ] [Crack the System Design Interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
 - [ ] [System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview)
 - [ ] [Web Architecture 101](https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947)
 - [ ] [What's in a Production Web Application?](https://web.archive.org/web/20210106095747/http://stephenmann.io/post/whats-in-a-production-web-application)
 - [ ] [Distributed systems](http://book.mixu.net/distsys/single-page.html)
 - [ ] [Failover](https://blog.alexewerlof.com/p/failover)
 - [ ] [Monoliths, Service Architecture, and Microservices](https://architecturenotes.co/granularity-of-systems)
+- [ ] [Scale From Zero To Millions Of Users](https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users)
 
 ### System design examples
 
@@ -174,7 +192,7 @@ Contributions are always welcome!
 
 ## Monitoring
 
-- [ ] [SLOs & You: A Guide To Service Level Objectives](https://www.circonus.com/2018/07/a-guide-to-service-level-objectives)
+- [ ] [Implementing SLOs](https://sre.google/workbook/implementing-slos/)
 - [ ] [Setting up Service Monitoring — The Why’s and What’s](https://amitosh.medium.com/the-whys-and-what-s-of-setting-up-service-monitoring-cc1c165ee088)
 - [ ] [How NOT to Measure Latency](https://youtu.be/lJ8ydIuPFeU)
 - [ ] [The four Golden Signals of Kubernetes monitoring](https://sysdig.com/blog/golden-signals-kubernetes)
@@ -193,7 +211,7 @@ Contributions are always welcome!
 - [ ] [The practical guide to incident management](https://incident.io/guide)
 - [ ] [Incident Response](https://response.pagerduty.com)
 - [ ] [Postmortems](https://postmortems.pagerduty.com)
-- [ ] [Runbooks](https://www.transposit.com/devops-blog/itsm/what-makes-a-good-runbook)
+- [ ] [Runbooks](https://web.archive.org/web/20231005015754/https://www.transposit.com/devops-blog/itsm/what-makes-a-good-runbook)
 - [ ] [Identifying and tracking toil using SRE principles](https://cloud.google.com/blog/products/management-tools/identifying-and-tracking-toil-using-sre-principles)
 - [ ] [Building SRE from Scratch](https://medium.com/ibm-garage/building-sre-from-scratch-485e23985bbd)
 - [ ] [SRE at Google: Our complete list of CRE life lessons](https://cloud.google.com/blog/products/devops-sre/sre-at-google-our-complete-list-of-cre-life-lessons)
@@ -210,6 +228,10 @@ Contributions are always welcome!
 - [ ] [SRE Checklist](https://github.com/bregman-arie/sre-checklist)
 - [ ] [Why bother with SLI and SLO?](https://blog.alexewerlof.com/p/why-bother-with-sli-and-slo)
 - [ ] [The System Resiliency Pyramid](https://www.codereliant.io/the-system-resiliency-pyramid)
+- [ ] [10 Tips for Onboarding New SRE Hires](https://www.srepath.com/10-tips-for-onboarding-new-sre-hires)
+- [ ] [Starting SRE at startups and smaller organizations](https://www.srepath.com/starting-sre-at-startups-and-smaller-organizations)
+- [ ] [Things That Makes a Good Site Reliability Engineer](https://reliabilityengineering.substack.com/p/things-that-makes-a-good-site-reliability)
+- [ ] [How SRE teams are organized, and how to get started](https://cloud.google.com/blog/products/devops-sre/how-sre-teams-are-organized-and-how-to-get-started)
 
 ## Resume
 
@@ -244,6 +266,8 @@ Contributions are always welcome!
 - [ ] [How I get a job at Google as SRE](https://fabrizio2210.medium.com/how-i-get-a-job-at-google-as-sre-83d44aef7859)
 - [ ] [Become A DevOps Engineer in 2023: [Detailed Guide]](https://devopscube.com/become-devops-engineer)
 - [ ] [How to Get an SRE Role](https://certomodo.substack.com/p/how-to-get-an-sre-role)
+- [ ] [DevOps Career Path](https://www.scaler.com/blog/devops-career-path/)
+- [ ] [Key DevOps Engineer Skills You Need in 2024](https://www.scaler.com/blog/devops-engineer-skills/)
 
 ## Books
 
